@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>  
 <html>
 <head>
-  <title>PHP Form Validation</title>
+  <title>PHP Form Required</title>
 <style>
 .error {color: #FF0000;}
 </style>
